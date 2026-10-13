@@ -1,0 +1,88 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1877 >>
+stream
+BT
+/F1 18 Tf
+50 750 Td
+(Daffa Aulia Rahman) Tj
+0 -24 Td
+/F1 11 Tf
+(Software Developer | Web Applications & AI Integration) Tj
+0 -16 Td
+/F1 9 Tf
+(Tangerang, Indonesia | daffaar202@gmail.com | linkedin.com/in/daffaauliar) Tj
+0 -26 Td
+/F1 12 Tf
+(PROFESSIONAL SUMMARY) Tj
+0 -15 Td
+/F1 9 Tf
+(Software Developer with experience in web application development, AI integration,) Tj
+0 -12 Td
+(database management, and data visualization. Proficient in JavaScript, TypeScript, Python,) Tj
+0 -12 Td
+(SQL, HTML, and CSS, with project experience using React, Vite, Streamlit, Supabase, and PostgreSQL.) Tj
+0 -24 Td
+/F1 12 Tf
+(EDUCATION) Tj
+0 -15 Td
+/F1 9 Tf
+(IPB University - Bachelor of Economics (Minor in Resources & Environmental Economics) | GPA: 3.53/4.00) Tj
+0 -24 Td
+/F1 12 Tf
+(SELECTED EXPERIENCE) Tj
+0 -15 Td
+/F1 9 Tf
+(Freelance Software Developer - Reparfume (May 2026 - Jul 2026)) Tj
+0 -12 Td
+(- Developed web applications using HTML, CSS, JavaScript, and SQL.) Tj
+0 -12 Td
+(- Integrated AI services into a data-entry workflow to transform unstructured information into structured data.) Tj
+0 -15 Td
+(Research Assistant - BRIN (May 2026 - Sep 2026)) Tj
+0 -12 Td
+(- Processed and classified over 500,000 Scopus-indexed publications using SJR metrics and RStudio.) Tj
+0 -15 Td
+(Foresight and Trend Innovation Analysis Assistant - BRIN (Nov 2025 - May 2026)) Tj
+0 -12 Td
+(- Processed bibliometric datasets and delivered training on Biblioshiny & WIPO tools.) Tj
+0 -15 Td
+(Community Development Intern - PT Agritama Sinergi Inovasi (Sep 2024 - Dec 2024)) Tj
+0 -12 Td
+(- Developed the Kang Raling website and a village waste data-management application.) Tj
+0 -24 Td
+/F1 12 Tf
+(TECHNICAL SKILLS) Tj
+0 -15 Td
+/F1 9 Tf
+(Languages: JavaScript, TypeScript, Python, SQL, HTML5, CSS3) Tj
+0 -12 Td
+(Frameworks & Tools: React, Vite, Streamlit, PostgreSQL, Supabase, Git, Looker Studio) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000002170 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2240
+%%EOF
